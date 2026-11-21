@@ -1,0 +1,2464 @@
+{
+  "summary": {
+    "execution_time_utc": "2026-11-20T16:40:06.386918+00:00",
+    "elapsed_seconds": 61.786767,
+    "total_weeks_evaluated": 130,
+    "successful_weeks": 130,
+    "skipped_weeks": 0,
+    "failed_weeks": 0,
+    "total_raw_features": 625,
+    "total_silver_features": 625,
+    "total_repaired_geometries": 61,
+    "total_quarantined_features": 0,
+    "target_crs": "EPSG:4326",
+    "bronze_root": "D:\\Tr\u1ef1c quan h\u00f3a\\data_crawl_USDM",
+    "silver_root": "data_USDM\\silver"
+  },
+  "metrics": [
+    {
+      "week_date": "2020-01-07",
+      "time_id": "20200107",
+      "source_file": "USDM_20200107.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-01-14",
+      "time_id": "20200114",
+      "source_file": "USDM_20200114.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-01-21",
+      "time_id": "20200121",
+      "source_file": "USDM_20200121.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-01-28",
+      "time_id": "20200128",
+      "source_file": "USDM_20200128.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-02-04",
+      "time_id": "20200204",
+      "source_file": "USDM_20200204.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-02-11",
+      "time_id": "20200211",
+      "source_file": "USDM_20200211.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-02-18",
+      "time_id": "20200218",
+      "source_file": "USDM_20200218.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-02-25",
+      "time_id": "20200225",
+      "source_file": "USDM_20200225.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-03-03",
+      "time_id": "20200303",
+      "source_file": "USDM_20200303.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-03-10",
+      "time_id": "20200310",
+      "source_file": "USDM_20200310.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-03-17",
+      "time_id": "20200317",
+      "source_file": "USDM_20200317.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-03-24",
+      "time_id": "20200324",
+      "source_file": "USDM_20200324.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-03-31",
+      "time_id": "20200331",
+      "source_file": "USDM_20200331.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-04-07",
+      "time_id": "20200407",
+      "source_file": "USDM_20200407.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-04-14",
+      "time_id": "20200414",
+      "source_file": "USDM_20200414.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-04-21",
+      "time_id": "20200421",
+      "source_file": "USDM_20200421.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-04-28",
+      "time_id": "20200428",
+      "source_file": "USDM_20200428.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-05-05",
+      "time_id": "20200505",
+      "source_file": "USDM_20200505.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-05-12",
+      "time_id": "20200512",
+      "source_file": "USDM_20200512.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-05-19",
+      "time_id": "20200519",
+      "source_file": "USDM_20200519.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-05-26",
+      "time_id": "20200526",
+      "source_file": "USDM_20200526.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-06-02",
+      "time_id": "20200602",
+      "source_file": "USDM_20200602.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-06-09",
+      "time_id": "20200609",
+      "source_file": "USDM_20200609.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-06-16",
+      "time_id": "20200616",
+      "source_file": "USDM_20200616.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-06-23",
+      "time_id": "20200623",
+      "source_file": "USDM_20200623.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-06-30",
+      "time_id": "20200630",
+      "source_file": "USDM_20200630.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-07-07",
+      "time_id": "20200707",
+      "source_file": "USDM_20200707.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-07-14",
+      "time_id": "20200714",
+      "source_file": "USDM_20200714.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-07-21",
+      "time_id": "20200721",
+      "source_file": "USDM_20200721.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-07-28",
+      "time_id": "20200728",
+      "source_file": "USDM_20200728.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-08-04",
+      "time_id": "20200804",
+      "source_file": "USDM_20200804.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-08-11",
+      "time_id": "20200811",
+      "source_file": "USDM_20200811.shp",
+      "raw_feature_count": 4,
+      "silver_feature_count": 4,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-08-18",
+      "time_id": "20200818",
+      "source_file": "USDM_20200818.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-08-25",
+      "time_id": "20200825",
+      "source_file": "USDM_20200825.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-09-01",
+      "time_id": "20200901",
+      "source_file": "USDM_20200901.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-09-08",
+      "time_id": "20200908",
+      "source_file": "USDM_20200908.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-09-15",
+      "time_id": "20200915",
+      "source_file": "USDM_20200915.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-09-22",
+      "time_id": "20200922",
+      "source_file": "USDM_20200922.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-09-29",
+      "time_id": "20200929",
+      "source_file": "USDM_20200929.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-10-06",
+      "time_id": "20201006",
+      "source_file": "USDM_20201006.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-10-13",
+      "time_id": "20201013",
+      "source_file": "USDM_20201013.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-10-20",
+      "time_id": "20201020",
+      "source_file": "USDM_20201020.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-10-27",
+      "time_id": "20201027",
+      "source_file": "USDM_20201027.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-11-03",
+      "time_id": "20201103",
+      "source_file": "USDM_20201103.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-11-10",
+      "time_id": "20201110",
+      "source_file": "USDM_20201110.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-11-17",
+      "time_id": "20201117",
+      "source_file": "USDM_20201117.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-11-24",
+      "time_id": "20201124",
+      "source_file": "USDM_20201124.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-12-01",
+      "time_id": "20201201",
+      "source_file": "USDM_20201201.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-12-08",
+      "time_id": "20201208",
+      "source_file": "USDM_20201208.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-12-15",
+      "time_id": "20201215",
+      "source_file": "USDM_20201215.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-12-22",
+      "time_id": "20201222",
+      "source_file": "USDM_20201222.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2020-12-29",
+      "time_id": "20201229",
+      "source_file": "USDM_20201229.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-01-05",
+      "time_id": "20210105",
+      "source_file": "USDM_20210105.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-01-12",
+      "time_id": "20210112",
+      "source_file": "USDM_20210112.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-01-19",
+      "time_id": "20210119",
+      "source_file": "USDM_20210119.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-01-26",
+      "time_id": "20210126",
+      "source_file": "USDM_20210126.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-02-02",
+      "time_id": "20210202",
+      "source_file": "USDM_20210202.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-02-09",
+      "time_id": "20210209",
+      "source_file": "USDM_20210209.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-02-16",
+      "time_id": "20210216",
+      "source_file": "USDM_20210216.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-02-23",
+      "time_id": "20210223",
+      "source_file": "USDM_20210223.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-03-02",
+      "time_id": "20210302",
+      "source_file": "USDM_20210302.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-03-09",
+      "time_id": "20210309",
+      "source_file": "USDM_20210309.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-03-16",
+      "time_id": "20210316",
+      "source_file": "USDM_20210316.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-03-23",
+      "time_id": "20210323",
+      "source_file": "USDM_20210323.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-03-30",
+      "time_id": "20210330",
+      "source_file": "USDM_20210330.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-04-06",
+      "time_id": "20210406",
+      "source_file": "USDM_20210406.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-04-13",
+      "time_id": "20210413",
+      "source_file": "USDM_20210413.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-04-20",
+      "time_id": "20210420",
+      "source_file": "USDM_20210420.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-04-27",
+      "time_id": "20210427",
+      "source_file": "USDM_20210427.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-05-04",
+      "time_id": "20210504",
+      "source_file": "USDM_20210504.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-05-11",
+      "time_id": "20210511",
+      "source_file": "USDM_20210511.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-05-18",
+      "time_id": "20210518",
+      "source_file": "USDM_20210518.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-05-25",
+      "time_id": "20210525",
+      "source_file": "USDM_20210525.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-06-01",
+      "time_id": "20210601",
+      "source_file": "USDM_20210601.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-06-08",
+      "time_id": "20210608",
+      "source_file": "USDM_20210608.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-06-15",
+      "time_id": "20210615",
+      "source_file": "USDM_20210615.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-06-22",
+      "time_id": "20210622",
+      "source_file": "USDM_20210622.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-06-29",
+      "time_id": "20210629",
+      "source_file": "USDM_20210629.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-07-06",
+      "time_id": "20210706",
+      "source_file": "USDM_20210706.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-07-13",
+      "time_id": "20210713",
+      "source_file": "USDM_20210713.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-07-20",
+      "time_id": "20210720",
+      "source_file": "USDM_20210720.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-07-27",
+      "time_id": "20210727",
+      "source_file": "USDM_20210727.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-08-03",
+      "time_id": "20210803",
+      "source_file": "USDM_20210803.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-08-10",
+      "time_id": "20210810",
+      "source_file": "USDM_20210810.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-08-17",
+      "time_id": "20210817",
+      "source_file": "USDM_20210817.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-08-24",
+      "time_id": "20210824",
+      "source_file": "USDM_20210824.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-08-31",
+      "time_id": "20210831",
+      "source_file": "USDM_20210831.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-09-07",
+      "time_id": "20210907",
+      "source_file": "USDM_20210907.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-09-14",
+      "time_id": "20210914",
+      "source_file": "USDM_20210914.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-09-21",
+      "time_id": "20210921",
+      "source_file": "USDM_20210921.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-09-28",
+      "time_id": "20210928",
+      "source_file": "USDM_20210928.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-10-05",
+      "time_id": "20211005",
+      "source_file": "USDM_20211005.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-10-12",
+      "time_id": "20211012",
+      "source_file": "USDM_20211012.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-10-19",
+      "time_id": "20211019",
+      "source_file": "USDM_20211019.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-10-26",
+      "time_id": "20211026",
+      "source_file": "USDM_20211026.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-11-02",
+      "time_id": "20211102",
+      "source_file": "USDM_20211102.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-11-09",
+      "time_id": "20211109",
+      "source_file": "USDM_20211109.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-11-16",
+      "time_id": "20211116",
+      "source_file": "USDM_20211116.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-11-23",
+      "time_id": "20211123",
+      "source_file": "USDM_20211123.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-11-30",
+      "time_id": "20211130",
+      "source_file": "USDM_20211130.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 2,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-12-07",
+      "time_id": "20211207",
+      "source_file": "USDM_20211207.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-12-14",
+      "time_id": "20211214",
+      "source_file": "USDM_20211214.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-12-21",
+      "time_id": "20211221",
+      "source_file": "USDM_20211221.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2021-12-28",
+      "time_id": "20211228",
+      "source_file": "USDM_20211228.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-01-04",
+      "time_id": "20220104",
+      "source_file": "USDM_20220104.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-01-11",
+      "time_id": "20220111",
+      "source_file": "USDM_20220111.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-01-18",
+      "time_id": "20220118",
+      "source_file": "USDM_20220118.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-01-25",
+      "time_id": "20220125",
+      "source_file": "USDM_20220125.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-02-01",
+      "time_id": "20220201",
+      "source_file": "USDM_20220201.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-02-08",
+      "time_id": "20220208",
+      "source_file": "USDM_20220208.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-02-15",
+      "time_id": "20220215",
+      "source_file": "USDM_20220215.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-02-22",
+      "time_id": "20220222",
+      "source_file": "USDM_20220222.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-03-01",
+      "time_id": "20220301",
+      "source_file": "USDM_20220301.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-03-08",
+      "time_id": "20220308",
+      "source_file": "USDM_20220308.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-03-15",
+      "time_id": "20220315",
+      "source_file": "USDM_20220315.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-03-22",
+      "time_id": "20220322",
+      "source_file": "USDM_20220322.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-03-29",
+      "time_id": "20220329",
+      "source_file": "USDM_20220329.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-04-05",
+      "time_id": "20220405",
+      "source_file": "USDM_20220405.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-04-12",
+      "time_id": "20220412",
+      "source_file": "USDM_20220412.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-04-19",
+      "time_id": "20220419",
+      "source_file": "USDM_20220419.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-04-26",
+      "time_id": "20220426",
+      "source_file": "USDM_20220426.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-05-03",
+      "time_id": "20220503",
+      "source_file": "USDM_20220503.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-05-10",
+      "time_id": "20220510",
+      "source_file": "USDM_20220510.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-05-17",
+      "time_id": "20220517",
+      "source_file": "USDM_20220517.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-05-24",
+      "time_id": "20220524",
+      "source_file": "USDM_20220524.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 1,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-05-31",
+      "time_id": "20220531",
+      "source_file": "USDM_20220531.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-06-07",
+      "time_id": "20220607",
+      "source_file": "USDM_20220607.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-06-14",
+      "time_id": "20220614",
+      "source_file": "USDM_20220614.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-06-21",
+      "time_id": "20220621",
+      "source_file": "USDM_20220621.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    },
+    {
+      "week_date": "2022-06-28",
+      "time_id": "20220628",
+      "source_file": "USDM_20220628.shp",
+      "raw_feature_count": 5,
+      "silver_feature_count": 5,
+      "dm_values_present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "repaired_geometries_count": 0,
+      "quarantined_features_count": 0,
+      "is_crs_conformed": true,
+      "status": "SUCCESS",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Weeks: 130; range: 20200107 - 20220628
+Valid grid cells: 3259; rows: 423670
+Requested range: 20200101 - 20221231. Available inputs end on 20220628.
+Grid: 120 x 50; 0.5 degrees; contiguous-US mask; original five sea-cell exclusions.
+drought: 0 = no drought; D0-D4 = DM classes. Rasters: 0 = no drought; 1-5 = D0-D4.
+Source shapefiles are unchanged.
+
+     0     D0     D1     D2     D3     D4 
+182601  66192  59102  54489  42950  18336 

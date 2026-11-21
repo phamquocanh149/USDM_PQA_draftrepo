@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Local runtimes & binaries
+.r_runtime/
+*.exe
+
+# Large consolidated parquet files exceeding GitHub 100MB limit
+# (All 130 weekly partitions week_date=*/data.parquet (~2MB each) are fully tracked)
+silver/data/drought_polygons/all_drought_polygons.parquet
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
